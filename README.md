@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repo is deprecated and it will no longer be updated. Please use my [newest Arch Repo](https://github.com/justalemon/ArchRepo) instead.
+
 # Lemon's Arch Repo<br>[![GitHub Actions][actions-img]][actions-url] [![Patreon][patreon-img]][patreon-url] [![PayPal][paypal-img]][paypal-url] [![Discord][discord-img]][discord-url]
 
 This is my little Arch Repo with all of the Arch Linux packages I work on. They are meant to work on Arch Linux, but they also work on other Arch forks and derivatives.
