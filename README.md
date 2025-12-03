@@ -12,15 +12,15 @@ Add the following lines to your `/etc/pacman.conf`:
 ```ini
 [lemon]
 SigLevel = Optional DatabaseOptional
-Server = https://github.com/justalemon/Arch/raw/master/$arch
+Server = https://github.com/justalemon/ArchRepo/raw/master/$arch
 ```
 
 ## Usage
 
 Just run `pacman -Syy`, then install any of the packages.
 
-[actions-img]: https://img.shields.io/github/actions/workflow/status/justalemon/Arch/main.yml?branch=master&label=actions
-[actions-url]: https://github.com/justalemon/Arch/actions
+[actions-img]: https://img.shields.io/github/actions/workflow/status/justalemon/ArchRepo/main.yml?branch=master&label=actions
+[actions-url]: https://github.com/justalemon/ArchRepo/actions
 [patreon-img]: https://img.shields.io/badge/support-patreon-FF424D.svg
 [patreon-url]: https://www.patreon.com/lemonchan
 [paypal-img]: https://img.shields.io/badge/support-paypal-0079C1.svg
